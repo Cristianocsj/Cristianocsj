@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Estudante de Ciência da Computação (IBMR) e ex-estagiário de TI em uma startup de gestão hospitalar, onde atuei com Python (Django), front-end, suporte aos usuários e experiência prática com integrações via **APIs REST** em ambiente de produção real.
+Estudante de Ciência da Computação (IBMR) com experiência profissional em uma startup de TI focada em gestão hospitalar, onde atuei com Python (Django), front-end, suporte aos usuários e experiência prática com integrações via APIs REST em ambiente de produção real.
 
 Atualmente estou direcionando meus estudos para **Inteligência Artificial** e **Engenharia de Dados**, combinando essa base com experiência prática em desenvolvimento web. Gosto de aprender fazendo: meus projetos misturam front-end, back-end, automação e, cada vez mais, IA aplicada.
 
