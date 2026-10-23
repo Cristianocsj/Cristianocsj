@@ -1,6 +1,6 @@
 # Cristiano Corrêa da Silva Júnior 👨‍💻
 
-### Estudante de Ciência da Computação | Desenvolvedor em formação | Foco em Software, IA e Dados
+### Estagiário de TI | Desenvolvedor Python & Django | Ciência da Computação | Tech em Saúde (HealthTech) | Foco em Software, IA e Dados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-corr%C3%AAa-da-silva-j%C3%BAnior-770400286/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crisjunior2004@gmail.com)
@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Ciência da Computação com experiência prática em tecnologia aplicada ao ambiente de negócios e suporte ao usuário. Durante minha trajetória, desenvolvi habilidades em desenvolvimento web, manutenção de sistemas, automação, integração de soluções e atendimento técnico, principalmente em um ambiente de startup focado em gestão hospitalar.
+Atualmente cursando Ciência da Computação com experiência prática em tecnologia aplicada ao ambiente de negócios e suporte ao usuário. Durante minha trajetória, desenvolvi habilidades em desenvolvimento web, manutenção de sistemas, automação, integração de soluções e atendimento técnico, principalmente em um ambiente de startup focado em gestão hospitalar.
 
 Tenho vivência com Python (Django), front-end, SQL Server, APIs REST, WordPress, Git/GitHub e desenvolvimento de soluções com foco em usabilidade, eficiência e impacto real para usuários e processos internos. Também venho ampliando meus estudos em Inteligência Artificial, Automação e Análise de Dados, áreas que considero fundamentais para o futuro da tecnologia.
 
