@@ -125,13 +125,6 @@ Projeto acadêmico relacionado a **Computação Gráfica e Realidade Virtual**, 
 - Formação focada em lógica, desenvolvimento, arquitetura de software, sistemas e tecnologias aplicadas.
 - Aprofundamento em áreas como inteligência artificial, dados e soluções digitais.
 
-### Tecnólogo em Sistemas de Informação
-**Faculdade Cesgranrio**  
-**Rio de Janeiro, RJ**  
-**Março/2023 - Novembro/2024**
-
-- Base sólida em sistemas, tecnologias da informação e desenvolvimento de soluções.
-
 ---
 
 ## 📊 Estatísticas do GitHub
